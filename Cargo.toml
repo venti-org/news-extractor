@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "html-dom",
+    "render-dom",
+    "news-extractor",
+    "extractor-server",
+]
